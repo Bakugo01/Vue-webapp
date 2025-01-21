@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "hat",
+    "detail": "Fashion jepang",
+    "coverimage": "src/img/hat.jpg",
+    "price": "$4.99"
+  },
+  {
+    "id": 2,
+    "name": "shirt",
+    "detail": "Fashion jepang",
+    "coverimage": "src/img/shirt.jpg",
+    "price": "$9.99"
+  },
+  {
+    "id": 3,
+    "name": "Sheer skirt",
+    "detail": "Fashion jepang",
+    "coverimage": "src/img/Sheer skirt.jpg",
+    "price": "$8.99"
+  },
+  {
+    "id": 4,
+    "name": "women's shoes",
+    "detail": "Fashion jepang",
+    "coverimage": "src/img/women's shoes.jpg",
+    "price": "$7.99"
+  },
+  {
+    "id": 5,
+    "name": "short skirt",
+    "detail": "Fashion jepang",
+    "coverimage": "src/img/short skirt.jpg",
+    "price": "$22.99"
+  },
+  {
+    "id": 6,
+    "name": "bag",
+    "detail": "Fashion jepang",
+    "coverimage": "src/img/bag.jpg",
+    "price": "$40.25"
+  },
+  {
+   "id": 6,
+    "name": "shorts",
+    "detail": "Fashion jepang",
+    "coverimage": "src/img/shorts.jpg",
+    "price": "$12.25"
+  },
+  {
+    "id": 7,
+    "name": "Women's long sleeve shirt",
+    "detail": "Fashion jepang",
+    "coverimage": "src/img/Women's long sleeve shirt.jpg",
+    "price": "$9.25"
+  },
+  {
+    "id": 8,
+    "name": "clock",
+    "detail": "Fashion jepang",
+    "coverimage": "src/img/clock.jpg",
+    "price": "$30.25"
+  },
+  {
+    "id": 9,
+    "name": "women's necklace",
+    "detail": "Fashion jepang",
+    "coverimage": "src/img/women's necklace.jpg",
+    "price": "$11.25"
+  },
+  {
+    "id": 0,
+    "name": "women's earrings",
+    "detail": "Fashion jepang",
+    "coverimage": "src/img/women's earrings.jpg",
+    "price": "$3.25"
+  }
+]
